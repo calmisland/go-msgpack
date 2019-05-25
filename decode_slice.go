@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/vmihailenco/msgpack/codes"
+	"github.com/calmisland/go-msgpack/codes"
 )
 
 const sliceElemsAllocLimit = 1e4

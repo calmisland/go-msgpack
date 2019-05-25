@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/vmihailenco/msgpack/codes"
+	"github.com/calmisland/go-msgpack/codes"
 )
 
 var timeExtId int8 = -1
