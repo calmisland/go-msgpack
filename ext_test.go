@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/calmisland/go-msgpack"
-	"github.com/calmisland/go-msgpack/codes"
+	"github.com/calmisland/go-msgpack/v5"
+	"github.com/calmisland/go-msgpack/v5/codes"
 )
 
 func init() {

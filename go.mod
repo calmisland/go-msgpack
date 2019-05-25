@@ -1,4 +1,4 @@
-module github.com/calmisland/go-msgpack
+module github.com/calmisland/go-msgpack/v5
 
 go 1.12
 

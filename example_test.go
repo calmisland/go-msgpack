@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/calmisland/go-msgpack"
+	"github.com/calmisland/go-msgpack/v5"
 )
 
 func ExampleMarshal() {

@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/calmisland/go-msgpack/codes"
+	"github.com/calmisland/go-msgpack/v5/codes"
 )
 
 type writer interface {

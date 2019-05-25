@@ -4,7 +4,7 @@ import (
 	"math"
 	"reflect"
 
-	"github.com/calmisland/go-msgpack/codes"
+	"github.com/calmisland/go-msgpack/v5/codes"
 )
 
 // EncodeUint8 encodes an uint8 in 2 bytes preserving type of the number.
